@@ -1,0 +1,16 @@
+/home/wub/Projetos/payments_core/PaymentCore.Domain/bin/Debug/net8.0/PaymentCore.Domain.deps.json
+/home/wub/Projetos/payments_core/PaymentCore.Domain/bin/Debug/net8.0/PaymentCore.Domain.dll
+/home/wub/Projetos/payments_core/PaymentCore.Domain/bin/Debug/net8.0/PaymentCore.Domain.pdb
+/home/wub/Projetos/payments_core/PaymentCore.Domain/bin/Debug/net8.0/PaymentCore.CrossCutting.dll
+/home/wub/Projetos/payments_core/PaymentCore.Domain/bin/Debug/net8.0/PaymentCore.CrossCutting.pdb
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.csproj.AssemblyReference.cache
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.AssemblyInfoInputs.cache
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.AssemblyInfo.cs
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.csproj.CoreCompileInputs.cache
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.sourcelink.json
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.csproj.CopyComplete
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.dll
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/refint/PaymentCore.Domain.dll
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/PaymentCore.Domain.pdb
+/home/wub/Projetos/payments_core/PaymentCore.Domain/obj/Debug/net8.0/ref/PaymentCore.Domain.dll

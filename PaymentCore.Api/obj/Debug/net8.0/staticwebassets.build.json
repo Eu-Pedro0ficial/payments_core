@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PXUUnEtX9+igrhSCFbanhtfCJdKuuOCRqQTHbCbd2u0=",
+  "Source": "PaymentCore.Api",
+  "BasePath": "_content/PaymentCore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

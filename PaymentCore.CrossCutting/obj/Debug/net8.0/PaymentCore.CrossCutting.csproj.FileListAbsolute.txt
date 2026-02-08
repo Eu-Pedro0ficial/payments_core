@@ -1,0 +1,12 @@
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/bin/Debug/net8.0/PaymentCore.CrossCutting.deps.json
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/bin/Debug/net8.0/PaymentCore.CrossCutting.dll
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/bin/Debug/net8.0/PaymentCore.CrossCutting.pdb
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/PaymentCore.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/PaymentCore.CrossCutting.AssemblyInfoInputs.cache
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/PaymentCore.CrossCutting.AssemblyInfo.cs
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/PaymentCore.CrossCutting.csproj.CoreCompileInputs.cache
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/PaymentCore.CrossCutting.sourcelink.json
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/PaymentCore.CrossCutting.dll
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/refint/PaymentCore.CrossCutting.dll
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/PaymentCore.CrossCutting.pdb
+/home/wub/Projetos/payments_core/PaymentCore.CrossCutting/obj/Debug/net8.0/ref/PaymentCore.CrossCutting.dll

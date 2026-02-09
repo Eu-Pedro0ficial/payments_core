@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PaymentCore.Api")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PaymentCore.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb12e6912d0dff463bbe9b79d6129b69fbf654e")]
-[assembly: System.Reflection.AssemblyProductAttribute("PaymentCore.Api")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PaymentCore.Api")]
+[assembly: System.Reflection.AssemblyProductAttribute("PaymentCore.Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PaymentCore.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

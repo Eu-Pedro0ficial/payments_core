@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaymentCore.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f67ffeeceb78f9f3f4b2a54a3bcbe45be9858632")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb12e6912d0dff463bbe9b79d6129b69fbf654e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaymentCore.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaymentCore.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

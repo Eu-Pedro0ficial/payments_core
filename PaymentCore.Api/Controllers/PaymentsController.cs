@@ -1,3 +1,4 @@
+using PaymentCore.Api.Models;
 
 namespace PaymentCore.Api.Controllers
 {
@@ -10,12 +11,22 @@ namespace PaymentCore.Api.Controllers
       _logger = logger;
     }
 
-    public async Task<IResult> CreateOrderPayment()
+    public async Task<IResult> CreateOrderPayment(CreatePaymentRequest Order)
     {
-      LogMessages.ProcessingOrder(_logger, 1, "pedro-123", 100);
+      var transactionId = Guid.NewGuid().ToString();
+      LogMessages.ProcessingOrder(
+        _logger, 
+        transactionId, 
+        Order.Payer.Id, 
+        Order.Amount.Value
+      );
 
-      await Task.Delay(1000);
-      return Results.Ok("Order Created");
+      var response = new PaymentSuccessResponse
+      {
+        TransactionId = transactionId,
+        Status = "PENDING"
+      };
+      return Results.Ok(response);
     }
   }
 }
@@ -24,5 +35,5 @@ public static partial class LogMessages
 {
   [LoggerMessage(EventId = 2001, Level = LogLevel.Information,
       Message = "Processando o pedido {OrderId} para o usuário {UserId} com o valor de {Amount}")]
-  public static partial void ProcessingOrder(ILogger logger, int orderId, string userId, decimal amount);
+  public static partial void ProcessingOrder(ILogger logger, string orderId, string userId, decimal amount);
 }

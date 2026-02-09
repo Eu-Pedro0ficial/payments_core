@@ -1,17 +1,18 @@
-
 using PaymentCore.Api.Controllers;
+using PaymentCore.Api.Models;
 
 namespace PaymentCore.Api.Routes;
 
-public static class PaymentRoute
+public static class PaymentRoutes
 {
   
-  public static void PaymentRoutes(this WebApplication app)
+  public static void MapPaymentRoutes(this WebApplication app)
   {
-    app.MapGet("/payment/order", async (PaymentController controller) =>
+    var routes = app.MapGroup("api/payment");
+
+    routes.MapPost("order/transactions", async (CreatePaymentRequest request, PaymentController controller) =>
     {
-      var orderResult = await controller.CreateOrderPayment();
-      return orderResult;
+      return await controller.CreateOrderPayment(request);
     });
   }
 

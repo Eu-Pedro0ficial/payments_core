@@ -16,7 +16,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.MapGet("/heath", () => "API UP");
-app.PaymentRoutes();
+app.MapPaymentRoutes();
 
 app.UseHttpsRedirection();
 

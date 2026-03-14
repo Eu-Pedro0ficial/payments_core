@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+M5lj/GtL/19OlLr1dDYeixpkWo0S0qxkpyBAf3WHMI7Px2o3EUDteQQlzzKITmi8UcCR9P5c2CHoV6VdBa2IQ==",
+  "dgSpecHash": "2LlpP8Id0DC+pQEdW7jdELDIXQ5sjY90NHvJTDy+fZQXFxxVUfv6PmHMVYDP1pEldfuQgm4HI5OfJAu2kpjlZw==",
   "success": true,
   "projectFilePath": "/home/wub/Projetos/payments_core/PaymentCore.Domain/PaymentCore.Domain.csproj",
   "expectedPackageFiles": [],
